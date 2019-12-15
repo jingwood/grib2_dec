@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+
+build/**/grib2_dec
